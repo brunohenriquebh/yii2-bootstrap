@@ -11,7 +11,7 @@
  * @author Christopher Stebe <c.stebe@herzogkommunikation.de>
  */
 
-namespace dmstr\bootstrap;
+namespace brunohenriquebh\bootstrap4;
 
 use yii\web\AssetBundle;
 use yii\web\View;

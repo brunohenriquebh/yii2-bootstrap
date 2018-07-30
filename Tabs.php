@@ -1,6 +1,6 @@
 <?php
 
-namespace dmstr\bootstrap;
+namespace brunohenriquebh\bootstrap4;
 
 use yii\web\View;
 
